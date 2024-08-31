@@ -38,7 +38,7 @@ toml==0.10.2
 tqdm==4.62.2
 twine==3.4.2
 urllib3==1.26.6
-values==2020.12.3
+values==66.0.3
 webencodings==0.5.1
 write==2020.12.3
 zipp==3.5.0
